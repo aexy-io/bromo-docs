@@ -1,11 +1,10 @@
 export default defineAppConfig({
   docus: {
-    title: 'PricingOps Docs',
-    description: 'Build scaleable pricing plans using our no-code editor.',
-    image: 'https://pricingops.ai/homepage/assets/screenshot.png',
+    title: 'Bromo.app Docs',
+    description: 'Documentation on using bromo.app.',
+    image: 'https://Bromo.app/homepage/assets/screenshot.png',
     socials: {
-      twitter: 'pricingops',
-      github: 'pricingops/docs',
+      twitter: 'bromoapp',
     },
     aside: {
       level: 0,
@@ -19,7 +18,7 @@ export default defineAppConfig({
     footer: {
       iconLinks: [
         {
-          href: 'https://bhanu.io',
+          href: 'https://bromo.app',
           icon: 'IconNuxtLabs'
         }
       ]
